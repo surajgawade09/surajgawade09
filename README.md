@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Suraj Gawade
-- 👀 I’m interested in Front-End Development 
-- 🌱 I’m currently learning Spring Boot
-- 📫 Reach me at  suraj.gawade7808@gmail.com
+- 🌱 I’m currently learning Spring Boot & Azure AI Tools
+- 📫 Reach me at i.surajgawade@gmail.com
   
 <!---
 surajgawade09/surajgawade09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
